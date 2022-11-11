@@ -11,4 +11,4 @@ Open Data Custodians is an open tool for connecting public Github repo data to a
 
 ## Contributing
 
-If you have an idea or question, please feel free to open an issue in the ODC repo! If you'd be interested to chat more, please join The Turing Way Collaboration Cafe video call or [email Jen](jding@turing.ac.uk).
+If you have an idea or question, please feel free to open an issue in the ODC repo! If you'd be interested to chat more, please join [The Turing Way Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe) call or [email Jen](jding@turing.ac.uk).
